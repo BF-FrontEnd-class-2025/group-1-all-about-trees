@@ -1,10 +1,11 @@
-# Name of project
+# All About Trees
 
-> A longer description
+> Our project about making a comfortable and helpful place which will give our
+> users an information about environment issues and possible solutions
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +23,7 @@
 
 ## General info
 
-> A short description
+> Helping to preserve trees and nature environment
 
 ## Screenshots
 
