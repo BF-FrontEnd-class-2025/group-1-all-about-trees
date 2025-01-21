@@ -9,15 +9,15 @@ create your own!
 
 **As visitor i need to see**
 
-- The Logo to make it more attractive
-- The title to identify what is our website about
-- The navbar to have a better possibilities visiting different sections from the
+- Logo - to make it more attractive
+- Title - to identify what is our website about
+- Navbar - to have a better possibilities visiting different sections from the
   website
-- Main content to get context of the website
-- Extra links to have additional information
-- A side bar to have extra information of the website or information no relative
+- Main content - to get context of the website
+- Extra links - to have additional information
+- Sidebar - to have extra information of the website or information no relative
   to the website
-- A footer to have contact
+- Footer - to have contact
 
 ## Should-Haves
 
