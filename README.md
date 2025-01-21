@@ -1,7 +1,7 @@
 # All About Trees
 
-> Our project about making a comfortable and helpful place which will give our
-> users an information about environment issues and possible solutions
+> Our project is about making a comfortable and helpful place which will give our
+> users the ideas and the information about trees and how to protect them efficiently.
 
 ## Table of contents
 
