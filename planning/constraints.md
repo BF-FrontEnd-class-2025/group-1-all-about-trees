@@ -6,4 +6,4 @@
 
 ## Internal:
 
--Each member has different knowledge (CSS,HTML,JAVA etc)
+- Each member has different knowledge (CSS,HTML,JAVA etc)
