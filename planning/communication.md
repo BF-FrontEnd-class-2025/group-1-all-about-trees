@@ -38,7 +38,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Susana: _8h_;
 - Melbana: _8h_;
 - Anton: _8h_;
-- Arsan: _4h_;
+- Arsan: _8h_;
 
 ## Asking for Help
 
