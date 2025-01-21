@@ -1,55 +1,76 @@
 # Project Name
 
-<!-- describe your project -->
+All About trees
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Create repo on Github
+- Add collaborators
+- Add Rules to the main branch
+- Create project board
+- Create an issue
 
----
+## Tittle
 
-<!-- copy this section once for each must-have user story -->
+- Create a header tag with a class name set to "centered-items"
+- Create a H1 tag
+- Created a img tag with a class name set to "bouncy-img"
 
-## user story
+_CSS_
 
-<!-- each issue created from this section will have the `for: user story` label -->
+- centre items by sides
+- modify size of img
+- add hover effect to img with bounce animation
 
-> "as a ... i can ... so that ..."
+## NavBar
 
-<!-- write any extra notes or description -->
+- Created a nav tag with a class set to "bottom-divider"
+- Created a div tag with a class set to "spaced-items"
+- Created 3 hyperlinks
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+_CSS_
 
-### Logic: user story
+- add border property
+- apply style properties
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Main Content
 
-### Interface: user story
+- Create a section tag with an id "summary-info"
+- Created a paragraph with a class "fascinating-words"
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+_CSS_
 
-### Interaction: user story
+- add font properties
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Side Bar
 
-### Documentation: user story
+- Create a aside tag with id "extra-info" and a class "aside-info"
+- Create a paragraph tag with a class "aside-text"
+- Place in the paragraph an hyperlink
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+_CSS_
+
+- add font properties
+- properties to change size
+
+## Extra Links
+
+- Create an article tag with id "main-info"
+- Create an paragraph
+- Create an unordered list with a class "interesting-things"
+- Create 3 list items whit hyperlinks
+
+_CSS_
+
+- add style for the list
+
+## Footer
+
+- Create an footer tag with class"top-divider spaced-items"
+- Create 3 hyperlinks With the social media information
+
+_CSS_
+
+- add border properties
